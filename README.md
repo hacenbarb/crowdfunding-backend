@@ -1,47 +1,62 @@
-## Getting Started
+# Crowdfunding platform
 
-Create a project using this example:
+`Join the decentralized revolution with our web3 crowdfunding platform. Invest in innovative projects, securely and transparently, using cryptocurrency.`
 
-```bash
-npx thirdweb create --contract --template hardhat-javascript-starter
-```
+take a look at the frontend implementation [frontend](https://github.com/hacenbarb/crowdfunding-web3)
 
-You can start editing the page by modifying `contracts/Contract.sol`.
+‼ this project is only for learning purposes
 
-To add functionality to your contracts, you can use the `@thirdweb-dev/contracts` package which provides base contracts and extensions to inherit. The package is already installed with this project. Head to our [Contracts Extensions Docs](https://portal.thirdweb.com/contractkit) to learn more.
+![img](images_for_preview/1.jpg)
 
-## Building the project
+![img](images_for_preview/2.jpg)
 
-After any changes to the contract, run:
+## `What is Web3 ?`
 
-```bash
-npm run build
-# or
-yarn build
-```
+Web3 refers to the next generation of the internet, where users have more control over their data and interactions with decentralized systems, rather than relying on centralized intermediaries. In a web3 context, crowdfunding allows for secure and transparent investment opportunities without the need for a middleman, enabling a more equitable and efficient system for both investors and project creators.
 
-to compile your contracts. This will also detect the [Contracts Extensions Docs](https://portal.thirdweb.com/contractkit) detected on your contract.
+## `Why we use blockchain in crowdfunding ?`
 
-## Deploying Contracts
+* `Decentralization:` Blockchain eliminates the need for intermediaries and creates a decentralized platform for transactions, making the process more secure, transparent, and efficient.
 
-When you're ready to deploy your contracts, just run one of the following command to deploy you're contracts:
+* `Immutable Record-Keeping:` Transactions made on the blockchain are permanent and can't be altered, providing a tamper-proof record of all investments and funding.
 
-```bash
-npm run deploy
-# or
-yarn deploy
-```
+* `Faster Payments:` Blockchain technology enables faster, peer-to-peer transactions without the need for intermediaries, reducing wait times for funding disbursements.
 
-## Releasing Contracts
+* `Tokenization:` The ability to issue unique tokens for each project on the blockchain allows for easy tracking of investment and distribution of rewards.
 
-If you want to release a version of your contracts publicly, you can use one of the followings command:
+* `Security:` Blockchain's cryptographic security measures protect against hacking, fraud, and other malicious activities.
 
-```bash
-npm run release
-# or
-yarn release
-```
+### `Features` 
+  
+  ✅ Safe and Secure
 
-## Join our Discord!
+  ✅ Transparent Transaction
 
-For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+  ✅ payment with Ethereum
+
+  ✅ Industry-ready application
+
+  ✅ Modern / Responsive / Beautiful  Design
+
+
+### `Used Technologies`
+
+* React.js
+* ThirdWeb
+* Smart Contract
+* Ethers.js
+* MetaMask
+* TailwindCss
+* Vite
+
+### `Learn More`
+
+To learn more take a look at the following resources:
+
+- [React documentation](https://reactjs.org/) - learn React.
+- [thirdweb React Documentation](https://docs.thirdweb.com/react) - learn about thirdweb React SDK.
+- [Ethers.js Documentation](https://docs.ethers.org/v5/) - learn Ethers.
+- [TailwindCSS Documentation](https://tailwindcss.com/) - learn TailwindCSS.
+- [Vite Documentation](https://vitejs.dev/guide/) - learn about Vite features.
+
+<p style="text-align: center;font-size:1.25rem">this project is made with ♥ by <a href="https://github.com/hacenbarb" target="_blank" style="color:light-blue;text-decoration:none">@hacenbarb</a></p>
